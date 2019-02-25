@@ -1,3 +1,6 @@
+!REPO is moved to stash: https://stash.merck.com/projects/DPS/repos/multipart-post/browse
+!Please do not use this repository anymore
+
 ## multipart-post
 
 * http://github.com/nicksieger/multipart-post
